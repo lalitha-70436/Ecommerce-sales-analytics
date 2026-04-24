@@ -4,12 +4,6 @@ A full stack + data analytics web application that helps businesses manage, trac
 
 ---
 
-## 🌐 Live Demo
-
-🔗 https://your-live-demo-link.com  
-
----
-
 ## 📌 Problem Statement
 
 Small business owners often rely on Excel sheets and manual methods, which leads to:
